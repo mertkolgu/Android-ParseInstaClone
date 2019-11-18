@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.parse-community.Parse-SDK-Android:ktx:1.22.1@aar">
+    <CLASSES>
+      <root url="jar://D:/Android/.gradle/caches/transforms-2/files-2.1/a490dd2a9a8c20bbd5634b1b38867659/ktx-1.22.1/jars/classes.jar!/" />
+      <root url="file://D:/Android/.gradle/caches/transforms-2/files-2.1/a490dd2a9a8c20bbd5634b1b38867659/ktx-1.22.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.github.parse-community.Parse-SDK-Android/ktx/1.22.1/2878fed53a76d683f57a21ae27017982518f91dd/ktx-1.22.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.github.parse-community.Parse-SDK-Android/ktx/1.22.1/1d802600f078593af64fe334162e9e9d23076066/ktx-1.22.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
